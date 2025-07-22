@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richa</h1>
 <h3 align="center">Results-driven B.Tech student in AI/ML, known for academic excellence with strong foundations in Data Structures, Web Development, and Machine Learning. Built and deployed multiple full-stack applications using the MERN stack, with a focus on clean UI, optimized API performance, and robust backend logic. Solved 300+ DSA problems across platforms, demonstrating problem-solving ability and code efficiency. Passionate about building scalable software and actively contributing to open-source projects. Seeking a Software Engineer/Developer role to apply and grow technical expertise in real-world challenges.</h3>
 
+
 <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" alt="Hospo Demo" width="600" />
 
 
